@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-09T07:20:50.002804500Z</date>
+  <millis>1688887250002</millis>
+  <nanos>804500</nanos>
+  <sequence>0</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 72, 53, 30, 12, 62, 35, 3, 13, 2]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.031534500Z</date>
+  <millis>1688887250031</millis>
+  <nanos>534500</nanos>
+  <sequence>1</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 53, 72, 30, 12, 62, 35, 3, 13, 2]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.039564800Z</date>
+  <millis>1688887250039</millis>
+  <nanos>564800</nanos>
+  <sequence>2</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 53, 30, 72, 12, 62, 35, 3, 13, 2]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.040567100Z</date>
+  <millis>1688887250040</millis>
+  <nanos>567100</nanos>
+  <sequence>3</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 53, 30, 12, 72, 62, 35, 3, 13, 2]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.041573400Z</date>
+  <millis>1688887250041</millis>
+  <nanos>573400</nanos>
+  <sequence>4</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 53, 30, 12, 62, 72, 35, 3, 13, 2]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.042562700Z</date>
+  <millis>1688887250042</millis>
+  <nanos>562700</nanos>
+  <sequence>5</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 53, 30, 12, 62, 35, 72, 3, 13, 2]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.043558300Z</date>
+  <millis>1688887250043</millis>
+  <nanos>558300</nanos>
+  <sequence>6</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 53, 30, 12, 62, 35, 3, 72, 13, 2]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.044555200Z</date>
+  <millis>1688887250044</millis>
+  <nanos>555200</nanos>
+  <sequence>7</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 53, 30, 12, 62, 35, 3, 13, 72, 2]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.045554200Z</date>
+  <millis>1688887250045</millis>
+  <nanos>554200</nanos>
+  <sequence>8</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 53, 30, 12, 62, 35, 3, 13, 2, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.046550100Z</date>
+  <millis>1688887250046</millis>
+  <nanos>550100</nanos>
+  <sequence>9</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 53, 30, 12, 62, 35, 3, 13, 2, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.047547200Z</date>
+  <millis>1688887250047</millis>
+  <nanos>547200</nanos>
+  <sequence>10</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 30, 53, 12, 62, 35, 3, 13, 2, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.048545Z</date>
+  <millis>1688887250048</millis>
+  <nanos>545000</nanos>
+  <sequence>11</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 30, 12, 53, 62, 35, 3, 13, 2, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.049543800Z</date>
+  <millis>1688887250049</millis>
+  <nanos>543800</nanos>
+  <sequence>12</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 30, 12, 53, 62, 35, 3, 13, 2, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.049543800Z</date>
+  <millis>1688887250049</millis>
+  <nanos>543800</nanos>
+  <sequence>13</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 30, 12, 53, 35, 62, 3, 13, 2, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.050540500Z</date>
+  <millis>1688887250050</millis>
+  <nanos>540500</nanos>
+  <sequence>14</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 30, 12, 53, 35, 3, 62, 13, 2, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.051536700Z</date>
+  <millis>1688887250051</millis>
+  <nanos>536700</nanos>
+  <sequence>15</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 30, 12, 53, 35, 3, 13, 62, 2, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.052535Z</date>
+  <millis>1688887250052</millis>
+  <nanos>535000</nanos>
+  <sequence>16</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 30, 12, 53, 35, 3, 13, 2, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.053533600Z</date>
+  <millis>1688887250053</millis>
+  <nanos>533600</nanos>
+  <sequence>17</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 30, 12, 53, 35, 3, 13, 2, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.053533600Z</date>
+  <millis>1688887250053</millis>
+  <nanos>533600</nanos>
+  <sequence>18</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 12, 30, 53, 35, 3, 13, 2, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.054530Z</date>
+  <millis>1688887250054</millis>
+  <nanos>530000</nanos>
+  <sequence>19</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 12, 30, 53, 35, 3, 13, 2, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.055526800Z</date>
+  <millis>1688887250055</millis>
+  <nanos>526800</nanos>
+  <sequence>20</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 12, 30, 35, 53, 3, 13, 2, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.056523900Z</date>
+  <millis>1688887250056</millis>
+  <nanos>523900</nanos>
+  <sequence>21</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 12, 30, 35, 3, 53, 13, 2, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.057520900Z</date>
+  <millis>1688887250057</millis>
+  <nanos>520900</nanos>
+  <sequence>22</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 12, 30, 35, 3, 13, 53, 2, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.058518200Z</date>
+  <millis>1688887250058</millis>
+  <nanos>518200</nanos>
+  <sequence>23</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 12, 30, 35, 3, 13, 2, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.059514900Z</date>
+  <millis>1688887250059</millis>
+  <nanos>514900</nanos>
+  <sequence>24</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 12, 30, 35, 3, 13, 2, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.059514900Z</date>
+  <millis>1688887250059</millis>
+  <nanos>514900</nanos>
+  <sequence>25</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 12, 30, 35, 3, 13, 2, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.060513800Z</date>
+  <millis>1688887250060</millis>
+  <nanos>513800</nanos>
+  <sequence>26</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 12, 30, 35, 3, 13, 2, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.061510900Z</date>
+  <millis>1688887250061</millis>
+  <nanos>510900</nanos>
+  <sequence>27</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 12, 30, 3, 35, 13, 2, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.061510900Z</date>
+  <millis>1688887250061</millis>
+  <nanos>510900</nanos>
+  <sequence>28</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 12, 30, 3, 13, 35, 2, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.062509400Z</date>
+  <millis>1688887250062</millis>
+  <nanos>509400</nanos>
+  <sequence>29</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 12, 30, 3, 13, 2, 35, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.063505800Z</date>
+  <millis>1688887250063</millis>
+  <nanos>505800</nanos>
+  <sequence>30</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 12, 30, 3, 13, 2, 35, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.063505800Z</date>
+  <millis>1688887250063</millis>
+  <nanos>505800</nanos>
+  <sequence>31</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 12, 30, 3, 13, 2, 35, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.064502300Z</date>
+  <millis>1688887250064</millis>
+  <nanos>502300</nanos>
+  <sequence>32</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 12, 3, 30, 13, 2, 35, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.064502300Z</date>
+  <millis>1688887250064</millis>
+  <nanos>502300</nanos>
+  <sequence>33</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 12, 3, 13, 30, 2, 35, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.065500300Z</date>
+  <millis>1688887250065</millis>
+  <nanos>500300</nanos>
+  <sequence>34</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 12, 3, 13, 2, 30, 35, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.066498400Z</date>
+  <millis>1688887250066</millis>
+  <nanos>498400</nanos>
+  <sequence>35</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 12, 3, 13, 2, 30, 35, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.066498400Z</date>
+  <millis>1688887250066</millis>
+  <nanos>498400</nanos>
+  <sequence>36</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 3, 12, 13, 2, 30, 35, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.067499700Z</date>
+  <millis>1688887250067</millis>
+  <nanos>499700</nanos>
+  <sequence>37</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 3, 12, 13, 2, 30, 35, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.067499700Z</date>
+  <millis>1688887250067</millis>
+  <nanos>499700</nanos>
+  <sequence>38</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[5, 3, 12, 2, 13, 30, 35, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.068491600Z</date>
+  <millis>1688887250068</millis>
+  <nanos>491600</nanos>
+  <sequence>39</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[3, 5, 12, 2, 13, 30, 35, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.068491600Z</date>
+  <millis>1688887250068</millis>
+  <nanos>491600</nanos>
+  <sequence>40</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[3, 5, 12, 2, 13, 30, 35, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.069488900Z</date>
+  <millis>1688887250069</millis>
+  <nanos>488900</nanos>
+  <sequence>41</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[3, 5, 2, 12, 13, 30, 35, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.069488900Z</date>
+  <millis>1688887250069</millis>
+  <nanos>488900</nanos>
+  <sequence>42</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[3, 5, 2, 12, 13, 30, 35, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.070486Z</date>
+  <millis>1688887250070</millis>
+  <nanos>486000</nanos>
+  <sequence>43</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[3, 2, 5, 12, 13, 30, 35, 53, 62, 72]</message>
+</record>
+<record>
+  <date>2023-07-09T07:20:50.070486Z</date>
+  <millis>1688887250070</millis>
+  <nanos>486000</nanos>
+  <sequence>44</sequence>
+  <logger>HomeWorkJAVA_02.HW02</logger>
+  <level>INFO</level>
+  <class>HomeWorkJAVA_02.HW02</class>
+  <method>exercise02</method>
+  <thread>1</thread>
+  <message>[2, 3, 5, 12, 13, 30, 35, 53, 62, 72]</message>
+</record>
+</log>
